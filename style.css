@@ -1,0 +1,25 @@
+.outer-div {
+    padding-top: 14px;
+    display: inline-block;
+}
+
+.outer-div a {
+    align-items: center;
+    outline: none;
+    display: inline-flex;
+    text-decoration: none !important;
+}
+
+.inner-div {
+    display: flex;
+    height: 20px;
+    color: #70757a;
+    font-family: "Google Sans", Arial, sans-serif-medium, sans-serif;
+    width: fit-content;
+    padding-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+}
